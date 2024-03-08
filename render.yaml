@@ -3,4 +3,4 @@ build:
   - source: github
     repo: Lakshita336/tdunkhotel
     branch: main 
-    dir: path/to/your/static/files
+    dir: https://github.com/Lakshita336/tdunkhotel/tree/main
