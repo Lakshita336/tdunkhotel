@@ -1,0 +1,6 @@
+build:
+  - command: echo "Static site deployment"
+  - source: github
+    repo: Lakshita336/tdunkhotel
+    branch: main 
+    dir: path/to/your/static/files
