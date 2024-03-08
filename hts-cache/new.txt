@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+18:41:02	796/796	---M--	404	error ('Not%20Found')	text/html	date:Fri,%2008%20Mar%202024%2013:11:02%20GMT	https://astylers.com/robots.txt		(from )
+18:41:02	2030/2030	---M-Z	200	added ('OK')	text/html	date:Thu,%2013%20Feb%202020%2014:09:57%20GMT	https://astylers.com/tdunk/demo/?storefront=envato-elements	C:/My%20Web%20Sites/my%20app/astylers.com/tdunk/demo/index04b9.html	(from )
+18:41:02	610/610	---M--	200	added ('OK')	image/png	date:Wed,%2012%20Feb%202020%2010:53:31%20GMT	https://astylers.com/tdunk/demo/favicon.png	C:/My%20Web%20Sites/my%20app/astylers.com/tdunk/demo/favicon.png	(from https://astylers.com/tdunk/demo/?storefront=envato-elements)
